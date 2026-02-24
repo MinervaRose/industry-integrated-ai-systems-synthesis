@@ -52,9 +52,10 @@ The emphasis is on system design and responsible orchestration and not on isolat
 
 This system integrates four prior project domains:
 
-1. Structured Machine Learning
+### 1. Structured Machine Learning
 
-From: Exoplanet Signal Classification
+From: [Exoplanet Signal Classification](https://github.com/MinervaRose/applied-machine-learning)
+
 Contribution:
 
 * Tabular classifier workflow
@@ -63,27 +64,30 @@ Contribution:
 
 * Structured feature reasoning
 
-2. Deep Learning Perception
+### 2. Deep Learning Perception
 
-From: Galaxy Morphology CNN
+From: [Galaxy Morphology CNN](https://github.com/MinervaRose/deep-learning-systems)
+
 Contribution:
 
 * Image-based classification pipeline
 
 * Multimodal corroboration logic
 
-3. Generative AI
+### 3. Generative AI
 
-From: Synthetic Satellite VAE
+From: [Synthetic Satellite VAE](https://github.com/MinervaRose/generative-ai-applications)
+
 Contribution:
 
 * Robustness probing via plausible perturbations
 
 * Instability detection under simulation
 
-4. Agentic Workflow Design
+### 4. Agentic Workflow Design
 
-From: Aerospace Anomaly Triage
+From: [Aerospace Anomaly Triage](https://github.com/MinervaRose/design-of-agentic-workflows)
+
 Contribution:
 
 * Bounded decision logic
@@ -231,10 +235,15 @@ No hidden state is required.
 ## Repository Structure
 
 📓 Integrative_Industry_Synthesis.ipynb
+
 📄 Reflective_Synthesis.pdf
+
 📄 Presentation.pdf
+
 📄 requirements.txt
+
 🖼 architecture_diagram.png
+
 📘 README.md
 
 ---
