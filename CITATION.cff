@@ -1,0 +1,42 @@
+```yaml
+cff-version: 1.2.0
+
+title: "Industry Integrated AI Systems Synthesis"
+
+message: "If you use this repository, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: "Palis"
+    given-names: "Sabrina"
+
+version: 1.0.0
+
+date-released: 2026-05-28
+
+license: MIT
+
+abstract: >
+  Integrated AI decision-support architecture for anomaly triage
+  in safety-critical aerospace environments. The project combines
+  multimodal machine learning, uncertainty-aware routing,
+  robustness probing, governance constraints, and human-in-the-loop
+  escalation logic into a coherent auditable workflow.
+
+keywords:
+  - artificial intelligence
+  - multimodal ai
+  - anomaly detection
+  - aerospace
+  - governed ai
+  - decision support
+  - safety-critical systems
+  - human-in-the-loop
+  - responsible ai
+  - ai systems
+
+repository-code: "https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis"
+
+license-url: "https://opensource.org/licenses/MIT"
+```
