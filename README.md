@@ -248,6 +248,20 @@ No hidden state is required.
 
 ---
 
+## Research Orientation
+
+This project explores governed AI orchestration under uncertainty in safety-critical environments.
+
+The emphasis is not on autonomous decision-making, but on designing auditable, modular, and bounded AI systems capable of supporting human operators under conditions of incomplete information and operational ambiguity.
+
+The repository serves as an exploratory systems synthesis artifact at the intersection of:
+- multimodal AI
+- uncertainty-aware routing
+- human-AI collaboration
+- responsible AI architecture
+- operational triage systems
+
+---
 ## Professional Relevance
 
 This project demonstrates readiness for applied AI system design in safety-critical domains.
