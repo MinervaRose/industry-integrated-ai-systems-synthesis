@@ -1,6 +1,8 @@
 # Autonomous Aerospace Monitoring Assistant
 ## Integrative Industry AI System Design — Capstone Synthesis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433541.svg)](https://doi.org/10.5281/zenodo.20433541)
+
 ![Python](https://img.shields.io/badge/Python-3.10-0B1F3B?style=flat&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Multimodal AI](https://img.shields.io/badge/AI-Multimodal-6A0DAD?style=flat)
