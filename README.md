@@ -1,10 +1,6 @@
 # Autonomous Aerospace Monitoring Assistant
 ## Integrative Industry AI System Design — Capstone Synthesis
 
-<p align="center">
-<img src="social-preview.png" alt="Autonomous Aerospace Monitoring Assistant">
-</p>
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433541.svg)](https://doi.org/10.5281/zenodo.20433541)
 
 ![Python](https://img.shields.io/badge/Python-3.10-0B1F3B?style=flat&logo=python&logoColor=white)
@@ -14,7 +10,15 @@
 ![Governed Architecture](https://img.shields.io/badge/Architecture-Governed-1F3B73?style=flat)
 ![Status](https://img.shields.io/badge/Status-Complete-2E8B57?style=flat)
 
----
+<p align="center">
+<a href="Presentation.pdf">
+  <img src="social-preview.png" width="550%">
+</a>
+</p>
+
+<p align="center">
+<b>📊 Click the banner to view the project presentation</b>
+</p>
 
 ## Project Overview
 
