@@ -1,6 +1,10 @@
 # Autonomous Aerospace Monitoring Assistant
 ## Integrative Industry AI System Design — Capstone Synthesis
 
+<p align="center">
+<img src="social-preview.png" alt="Autonomous Aerospace Monitoring Assistant">
+</p>
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433541.svg)](https://doi.org/10.5281/zenodo.20433541)
 
 ![Python](https://img.shields.io/badge/Python-3.10-0B1F3B?style=flat&logo=python&logoColor=white)
@@ -23,6 +27,34 @@ This project designs a governed AI workflow that assists human analysts in evalu
 The system integrates machine learning, deep learning, generative robustness testing, and agentic decision logic into a coherent, auditable pipeline.
 
 This artifact represents the culmination of cross-domain integration across the Udacity Master's in AI Capstone program.
+
+---
+
+## Why This Matters
+
+Many AI systems focus exclusively on predictive performance.
+
+In safety-critical environments, prediction alone is insufficient.
+
+Operators must understand uncertainty, assess risk, inspect evidence, and maintain accountability for decisions.
+
+This project explores how AI systems can be designed as governed decision-support infrastructure rather than autonomous decision-makers.
+
+---
+
+## Key Skills Demonstrated
+
+- Python
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI Workflows
+- Multimodal Systems
+- Responsible AI
+- AI Governance
+- Risk-Aware Decision Systems
+- Human-in-the-Loop Architecture
+- Technical Documentation
 
 ---
 
@@ -130,7 +162,9 @@ Key design properties:
 
 * Structured audit outputs
 
-See ```architecture_diagram.png``` for the full system diagram.
+<p align="center">
+<img src="architecture_diagram.png" width="900">
+</p>
 
 ---
 
@@ -282,5 +316,7 @@ It showcases:
 
 The core competency demonstrated is not building a single model, but designing a defensible AI decision-support system.
 
-
+---
+Developed by Sabrina Palis
+MSc Artificial Intelligence
 
